@@ -1,0 +1,1 @@
+How to get a virtualenvironment with Coldtype installed: https://coldtype.goodhertz.com/install.html
