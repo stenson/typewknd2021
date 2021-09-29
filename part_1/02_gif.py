@@ -1,8 +1,7 @@
 from coldtype import *
 
-@animation((540, 540/2), timeline=20, bg=rgb(0, 0.5, 1), render_bg=1)
+@animation((540, 540/2), timeline=20)
 def giftest(f):
-    
     return PS([
         (P(f.a.r)
             .f(hsl(f.e("eeio", 1, rng=(0.6, 0.8)), 0.8, 0.6))),
