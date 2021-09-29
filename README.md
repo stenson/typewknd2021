@@ -9,3 +9,10 @@ With a virtualenv installed and activated, you can:
 - `coldtype part_1/00_vf.py`
 - `coldtype part_1/01_animation.py`
 - etc.
+
+
+Nice VS Code extensions:
+
+- "Rainbow Brackets" (or the new built-in option https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- "indent-rainbow"
+- "Nudge"
