@@ -1,6 +1,6 @@
 from coldtype import *
 
-@animation((1080, 540), timeline=60, storyboard=[0, 15, 30], render_bg=1)
+@animation((1080, 540), timeline=60, storyboard=[0], render_bg=1)
 def vari(f):
     return (StSt("Type\nWknd".upper(), Font.MutatorSans(),
         font_size=f.e("eeio", 1, rng=(150, 100)),
